@@ -1,4 +1,4 @@
-[![MasterHead](https://whatifgaming.com/wp-content/uploads/2022/03/Living-the-Minecraft-Life.gif)](https://github.com/safifis)
+
 <h1 align="center">Hi 👋, I'm Feifei Sun</h1>
 <h3 align="center">A passionate programmer studying at Georgia Tech</h3>
 <img align="right" alt = "Coding" width ="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/feifei-sun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feifei-sun" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/safifis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="safifis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
