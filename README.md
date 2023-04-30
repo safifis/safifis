@@ -1,17 +1,18 @@
-
 <h1 align="center">Hi 👋, I'm Feifei Sun</h1>
-<h3 align="center">A passionate programmer studying at Georgia Tech</h3>
+<h3 align="center">A passionate programmer</h3>
 <img align="right" alt = "Coding" width ="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safifis&label=Profile%20views&color=0e75b6&style=flat" alt="safifis" /> </p>
 
 - 🔭 I’m currently working on [TinDog](https://safifis.github.io/TinDog/)
 
+- 🌱 I’m currently studying [**Master's in Computer Science @GeorgiaTech**](https://www.gatech.edu/)
+
 - 👨‍💻 All of my projects are available at [futurelink](futurelink)
 
 - 📫 How to reach me **feifeisun0503@gmail.com**
 
-- 📄 Know about my experiences [resumelink](resumelink)
+- 📄 Know about my experiences [futurelink](resumelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
