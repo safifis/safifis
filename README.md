@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently studying [**Master's in Computer Science @GeorgiaTech**](https://www.gatech.edu/)
 
-- 👨‍💻 All of my projects are available at [futurelink](https://safifis.github.io/cv/)
+- 👨‍💻 All of my projects are available at [My Website](https://safifis.github.io/cv/)
 
 - 📫 How to reach me **feifeisun0503@gmail.com**
 
