@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safifis&show_icons=true&locale=en&layout=compact" alt="safifis" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=safifis)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=safifis)](https://github.com/safifis))
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/safifis)](https://leetcode.com/safifis)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/safifis?ext=heatmap)](https://leetcode.com/safifis)
