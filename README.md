@@ -1,6 +1,5 @@
-<p align="center">
-  <h1 align="center">Hi    👋, I'm Feifei Sun</h1></p>
-  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=100&color=F78633&width=435&lines=Passionate+Programmer;Full+Stack+Web+and+App+Developer;Always+Learning;Always+Improving" alt="Typing SVG" /></a> </p>
+<h1 align="center">Hi    👋, I'm Feifei Sun</h1>
+<h3 align="center">A Passionate Programmer</h3>
 
 <img align="right" alt = "Coding" width ="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
