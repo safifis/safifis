@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+Programmer;Full+Stack+Web+Developer;Android+Developer;IOS+Developer)](https://git.io/typing-svg)
 <h1 align="center">Hi    👋, I'm Feifei Sun</h1>
+```md
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+```
 <h3 align="center">A passionate programmer</h3>
 <img align="right" alt = "Coding" width ="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
