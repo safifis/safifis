@@ -1,6 +1,5 @@
 <h1 align="center">Hi    👋, I'm Feifei Sun</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=100&color=F78633&width=435&lines=Passionate+Programmer;Full+Stack+Web+and+App+Developer;Always+Learning;Always+Improving" alt="Typing SVG" /></a>
-<h3 align="center">A passionate programmer</h3>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=100&color=F78633&width=435&lines=Passionate+Programmer;Full+Stack+Web+and+App+Developer;Always+Learning;Always+Improving" alt="Typing SVG" /></a>
 <img align="right" alt = "Coding" width ="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safifis&label=Profile%20views&color=0e75b6&style=flat" alt="safifis" /> </p>
