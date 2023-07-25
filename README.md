@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **feifeisun0503@gmail.com**
 
-- 📄 Know about my experiences on [My Resume](https://drive.google.com/file/d/1oNcKQUYviUVWys2_K0eHDUIO0yNznCP_/view?usp=sharing)
+- 📄 Know about my experiences on [My Resume](https://drive.google.com/file/d/1K7edYu9F94oVz0Vr9K8HwSGjOJ4fyBI4/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
