@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safifis&label=Profile%20views&color=0e75b6&style=flat" alt="safifis" /> </p>
 
-- 🔭 I’m currently working on [TinDog](https://safifis.github.io/TinDog/)
+- 🔭 I’m currently working on [Threads](threads-safifis.vercel.app)
 
 - 🌱 I’m currently studying [**Master's in Computer Science @GeorgiaTech**](https://www.gatech.edu/)
 
