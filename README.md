@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently studying [**Master's in Computer Science @GeorgiaTech**](https://www.gatech.edu/)
 
-- 👨‍💻 All of my projects are available at [My Website](https://portfolio-z4ex.onrender.com/)
+- 👨‍💻 Check out all of my projects on my awesome [3D Portfolio Website](https://portfolio-z4ex.onrender.com/)
 
 - 📫 How to reach me **feifeisun0503@gmail.com**
 
-- 📄 Know about my experiences on [My Resume](https://drive.google.com/file/d/1BRX3Qg3BY3o60L-kG7TnI39JK5jaJT_U/view?usp=sharing).
+- 📄 Know about my experiences on [My Resume](https://drive.google.com/file/d/1Xb0MN4cKnebB71fKqnDu6p5moNHatyMA/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
