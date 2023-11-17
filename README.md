@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently studying [**Master's in Computer Science @GeorgiaTech**](https://www.gatech.edu/)
 
-- 👨‍💻 Check out all of my projects on my awesome [3D Portfolio Website](https://portfolio-z4ex.onrender.com/)
+- 👨‍💻 Check out all my projects on my [3D Portfolio Website](https://portfolio-z4ex.onrender.com/)
 
 - 📫 How to reach me **feifeisun0503@gmail.com**
 
